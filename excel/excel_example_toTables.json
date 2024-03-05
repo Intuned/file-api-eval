@@ -1,0 +1,42 @@
+[
+  {
+    "tables": [
+      {
+        "title": "CONTRACT INFORMATION",
+        "data": [
+          ["", ""],
+          ["CONTRACT INFORMATION ", ""],
+          [
+            "Contract Title ",
+            "Supplies Manufactured & Services Performed by Persons with Disabilities (\"UniqueSource\") "
+          ],
+          ["Contract Number ", "*4400004306 (MSCC) & 4400004695 "],
+          ["Solicitation Number ", "N/A "],
+          ["Original Validity Period ", "04/01/2009 - 1 12/31/9999 "],
+          [
+            "Current Validity End Date & Renewals Remaining ",
+            "60 days written notice of termination by either party (or until termination due to default) "
+          ],
+          ["Total Number of Contracts ", "2 "],
+          ["Point of Contact ", "Betty Goodling-Weimer, Program Manager "],
+          ["Contact Phone Number ", "717-787-7324 "],
+          ["Contact Email Address ", "ra-uniquesource@pa.gov "]
+        ]
+      },
+      {
+        "title": "PROCESS TO ORDER",
+        "data": [
+          ["PROCESS TO ORDER ", ""],
+          ["Contract Type: ", "Both "],
+          [
+            "Contract Description: ",
+            "Supplier Website, Catalog/Price List, MSCC/Line Item "
+          ],
+          ["End User Procedures: ", "End-User Procedures "],
+          ["Recommended EUP: ", ""],
+          ["ITQ Procedures: ", ""]
+        ]
+      }
+    ]
+  }
+]

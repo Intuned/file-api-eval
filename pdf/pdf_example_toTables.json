@@ -1,0 +1,80 @@
+[
+  {
+    "tables": [
+      {
+        "title": "CONTRACT INFO",
+        "data": [
+          ["CONTRACT INFO ", "", ""],
+          ["Material or Service ", "Services ", ""],
+          [
+            "Title & Contract # (s) ",
+            "Premier Support Services 4400000452 ",
+            ""
+          ],
+          [
+            "Number of Suppliers ",
+            "1 ",
+            "Pcard enabled: N Pcard accepted: Y MSCC: N "
+          ],
+          [
+            "Validity Period ",
+            "08/01/2007 - 12/31/9999 (Contract does not expire) ",
+            ""
+          ],
+          ["Point of Contact ", "Scott Cropper ", ""],
+          ["Contact Phone # ", "717.346.3819 ", ""],
+          ["Email ", "scropper@pa.gov ", ""]
+        ]
+      }
+    ]
+  },
+  {
+    "tables": [
+      {
+        "title": null,
+        "data": [
+          [
+            "Supplier Name & Address ",
+            "COSTARS Participant ",
+            "Vendor No. ",
+            "Contract No. ",
+            "Telephone No. ",
+            "Fax No. ",
+            "Contact Person "
+          ],
+          [
+            "Microsoft Corporation 8050 Microsoft Way Charlotte, NC 28273 ",
+            "Yes ",
+            "171880 ",
+            "4400000452 ",
+            "717-880-1800 ",
+            "425-708-0495 ",
+            "George Spanakis "
+          ],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""],
+          ["", "", "", "", "", "", ""]
+        ]
+      }
+    ]
+  }
+]
