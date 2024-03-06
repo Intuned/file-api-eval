@@ -1,4 +1,4 @@
-## Simple APIs for file data extraction
+## Get your PDFs LLM ready
 
 **TLDR;** Intuned’s File APIs gets you data from files in a way that can be used in LLMs
 
